@@ -1,0 +1,9 @@
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.AssemblyInfoInputs.cache
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.AssemblyInfo.cs
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.csprojAssemblyReference.cache
+C:\Revature\Project0\Project0.Data\bin\Debug\netstandard2.0\Project0.Data.deps.json
+C:\Revature\Project0\Project0.Data\bin\Debug\netstandard2.0\Project0.Data.dll
+C:\Revature\Project0\Project0.Data\bin\Debug\netstandard2.0\Project0.Data.pdb
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.csproj.CoreCompileInputs.cache
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.dll
+C:\Revature\Project0\Project0.Data\obj\Debug\netstandard2.0\Project0.Data.pdb
